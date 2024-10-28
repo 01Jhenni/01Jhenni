@@ -1,14 +1,8 @@
 <h2 align="left">Hi 👋! My name is Jhenni</h2>
 
-###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=01Jhenni&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-</div>
 
-###
-
-<img align="right" height="150" src="https://i.pinimg.com/originals/5b/fc/41/5bfc412714a52c2daed8ce92e31d7756.gif"  />
+<img align="right" height="150" src=""  />
 
 ###
 
