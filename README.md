@@ -25,14 +25,6 @@ What drives me? Transforming **manual, error-prone workflows** into **automated,
 
 ---
 
-## 🎯 What I’m Looking For
-
-* A role where I can deepen my expertise in **Artificial Intelligence** and contribute to the development of **innovative, autonomous solutions**.
-* Opportunities to work on **data-intensive projects**, combining **automation**, **AI**, and **software development**.
-* A collaborative environment that values **innovation**, **problem-solving**, and **continuous learning**.
-
----
-
 ## ⚙️ Tools & Technologies
 
 * **Python**: for automation, data processing, and AI.
