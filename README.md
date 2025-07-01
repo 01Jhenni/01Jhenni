@@ -1,6 +1,4 @@
-Certainly! Here's your updated and professional README in English, emphasizing your expertise in **Artificial Intelligence**, **automation**, and a more **corporate, traditional tone** — while maintaining clarity and structure:
 
----
 
 # 👩‍💻 Jhennifer Ferreira Nascimento
 
